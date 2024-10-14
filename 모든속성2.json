@@ -1,0 +1,704 @@
+[
+    {
+        "attributeSeq": 10025355,
+        "attributeValueSeq": 10781910,
+        "minAttributeValue": "애니메이션",
+        "exposureOrder": 1
+    },
+    {
+        "attributeSeq": 10025355,
+        "attributeValueSeq": 104812,
+        "minAttributeValue": "영화",
+        "exposureOrder": 2
+    },
+    {
+        "attributeSeq": 10025355,
+        "attributeValueSeq": 10000286,
+        "minAttributeValue": "게임",
+        "exposureOrder": 3
+    },
+    {
+        "attributeSeq": 10025355,
+        "attributeValueSeq": 10959855,
+        "minAttributeValue": "공룡",
+        "exposureOrder": 4
+    },
+    {
+        "attributeSeq": 10025355,
+        "attributeValueSeq": 10773007,
+        "minAttributeValue": "자동차",
+        "exposureOrder": 5
+    },
+    {
+        "attributeSeq": 10025355,
+        "attributeValueSeq": 10553590,
+        "minAttributeValue": "비행기",
+        "exposureOrder": 6
+    },
+    {
+        "attributeSeq": 10025355,
+        "attributeValueSeq": 10722409,
+        "minAttributeValue": "동물",
+        "exposureOrder": 7
+    },
+    {
+        "attributeSeq": 10025355,
+        "attributeValueSeq": 10722408,
+        "minAttributeValue": "인물",
+        "exposureOrder": 8
+    },
+    {
+        "attributeSeq": 10025355,
+        "attributeValueSeq": 10040055,
+        "minAttributeValue": "캐릭터",
+        "exposureOrder": 9
+    },
+    {
+        "attributeSeq": 10025355,
+        "attributeValueSeq": 10030656,
+        "minAttributeValue": "기타",
+        "exposureOrder": 10
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10610711,
+        "minAttributeValue": "원피스",
+        "exposureOrder": 1
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10773004,
+        "minAttributeValue": "드래곤볼",
+        "exposureOrder": 2
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10775152,
+        "minAttributeValue": "스타워즈",
+        "exposureOrder": 3
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10775153,
+        "minAttributeValue": "러브라이브",
+        "exposureOrder": 4
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10773847,
+        "minAttributeValue": "마블",
+        "exposureOrder": 5
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10029420,
+        "minAttributeValue": "DC",
+        "exposureOrder": 6
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10775154,
+        "minAttributeValue": "하이큐",
+        "exposureOrder": 7
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10773002,
+        "minAttributeValue": "포켓몬스터",
+        "exposureOrder": 8
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10775155,
+        "minAttributeValue": "신세기 에반게리온",
+        "exposureOrder": 9
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10775156,
+        "minAttributeValue": "명탐정 코난",
+        "exposureOrder": 10
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10773005,
+        "minAttributeValue": "나루토",
+        "exposureOrder": 11
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10775157,
+        "minAttributeValue": "FATE",
+        "exposureOrder": 12
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10775158,
+        "minAttributeValue": "RE:제로부터 시작하는 이세계 생활",
+        "exposureOrder": 13
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10775159,
+        "minAttributeValue": "소드 아트 온라인",
+        "exposureOrder": 14
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10772997,
+        "minAttributeValue": "건담 시리즈",
+        "exposureOrder": 15
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10775160,
+        "minAttributeValue": "함대콜렉션",
+        "exposureOrder": 16
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10775161,
+        "minAttributeValue": "나의 히어로 아카데미아",
+        "exposureOrder": 17
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10775162,
+        "minAttributeValue": "진격의거인",
+        "exposureOrder": 18
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10775163,
+        "minAttributeValue": "마징가",
+        "exposureOrder": 19
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10775164,
+        "minAttributeValue": "모노가타리 시리즈",
+        "exposureOrder": 20
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10775165,
+        "minAttributeValue": "보컬로이드",
+        "exposureOrder": 21
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10775166,
+        "minAttributeValue": "죠죠의기묘한모험",
+        "exposureOrder": 22
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10775167,
+        "minAttributeValue": "세인트 세이야",
+        "exposureOrder": 23
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10188314,
+        "minAttributeValue": "디즈니",
+        "exposureOrder": 24
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10029302,
+        "minAttributeValue": "트랜스포머",
+        "exposureOrder": 25
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10744783,
+        "minAttributeValue": "밀리터리",
+        "exposureOrder": 26
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10959865,
+        "minAttributeValue": "귀멸의칼날",
+        "exposureOrder": 27
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 11304351,
+        "minAttributeValue": "짱구",
+        "exposureOrder": 28
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 11503901,
+        "minAttributeValue": "티니핑",
+        "exposureOrder": 29
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 11503911,
+        "minAttributeValue": "산리오",
+        "exposureOrder": 30
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 11503931,
+        "minAttributeValue": "디지몬",
+        "exposureOrder": 31
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10954855,
+        "minAttributeValue": "신비아파트",
+        "exposureOrder": 32
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 11503941,
+        "minAttributeValue": "슬램덩크",
+        "exposureOrder": 33
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 11503842,
+        "minAttributeValue": "로블록스",
+        "exposureOrder": 34
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 11503951,
+        "minAttributeValue": "피너츠",
+        "exposureOrder": 35
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 11503961,
+        "minAttributeValue": "고질라",
+        "exposureOrder": 36
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 11503971,
+        "minAttributeValue": "하츠네미쿠",
+        "exposureOrder": 37
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 11503981,
+        "minAttributeValue": "주술회전",
+        "exposureOrder": 38
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 11503991,
+        "minAttributeValue": "원신",
+        "exposureOrder": 39
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 11447541,
+        "minAttributeValue": "몰랑이",
+        "exposureOrder": 40
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 11504001,
+        "minAttributeValue": "마인크래프트",
+        "exposureOrder": 41
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 11504011,
+        "minAttributeValue": "소닉",
+        "exposureOrder": 42
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 11503972,
+        "minAttributeValue": "체인소맨",
+        "exposureOrder": 43
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 11504021,
+        "minAttributeValue": "이웃집토토로",
+        "exposureOrder": 44
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10029282,
+        "minAttributeValue": "뽀로로",
+        "exposureOrder": 45
+    },
+    {
+        "attributeSeq": 10014736,
+        "attributeValueSeq": 10775170,
+        "minAttributeValue": "기타작품",
+        "exposureOrder": 46
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 11427791,
+        "minAttributeValue": "넨도로이드",
+        "exposureOrder": 1
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10775172,
+        "minAttributeValue": "S.H 시리즈",
+        "exposureOrder": 2
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10815073,
+        "minAttributeValue": "피규아츠",
+        "exposureOrder": 3
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10775174,
+        "minAttributeValue": "FIGMA",
+        "exposureOrder": 4
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10775175,
+        "minAttributeValue": "RAH(REAL ACTION HEROES)",
+        "exposureOrder": 5
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10775176,
+        "minAttributeValue": "PLAY ART 改",
+        "exposureOrder": 6
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10775177,
+        "minAttributeValue": "초합금 시리즈",
+        "exposureOrder": 7
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10775178,
+        "minAttributeValue": "ROBOT 魂",
+        "exposureOrder": 8
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10775179,
+        "minAttributeValue": "무비 마스터피스",
+        "exposureOrder": 9
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10815074,
+        "minAttributeValue": "엑설런트 모델",
+        "exposureOrder": 10
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10815075,
+        "minAttributeValue": "그란디스타",
+        "exposureOrder": 11
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10815076,
+        "minAttributeValue": "조형왕&조형천하",
+        "exposureOrder": 12
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10815077,
+        "minAttributeValue": "킹 오브 아티스트",
+        "exposureOrder": 13
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10815078,
+        "minAttributeValue": "제일복권",
+        "exposureOrder": 14
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10815079,
+        "minAttributeValue": "큐포쉬",
+        "exposureOrder": 15
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10815080,
+        "minAttributeValue": "리볼텍",
+        "exposureOrder": 16
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10815081,
+        "minAttributeValue": "P.O.P",
+        "exposureOrder": 17
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10815082,
+        "minAttributeValue": "UDF(ULTRA DETAIL FIGURE)",
+        "exposureOrder": 18
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10815083,
+        "minAttributeValue": "ARTFX",
+        "exposureOrder": 19
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10815084,
+        "minAttributeValue": "S.I.C 시리즈",
+        "exposureOrder": 20
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10815085,
+        "minAttributeValue": "메타코레",
+        "exposureOrder": 21
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10815086,
+        "minAttributeValue": "MAFEX",
+        "exposureOrder": 22
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10815087,
+        "minAttributeValue": "SKYTUBE",
+        "exposureOrder": 23
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10815088,
+        "minAttributeValue": "GEM",
+        "exposureOrder": 24
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10815090,
+        "minAttributeValue": "NXEDGE",
+        "exposureOrder": 25
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10815091,
+        "minAttributeValue": "큐포스켓",
+        "exposureOrder": 26
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10959796,
+        "minAttributeValue": "베어브릭",
+        "exposureOrder": 27
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10959875,
+        "minAttributeValue": "캔디토이",
+        "exposureOrder": 28
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10959885,
+        "minAttributeValue": "캡슐토이",
+        "exposureOrder": 29
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 11504041,
+        "minAttributeValue": "피그마",
+        "exposureOrder": 30
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 11504051,
+        "minAttributeValue": "베리어블",
+        "exposureOrder": 31
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 11503902,
+        "minAttributeValue": "이치방쿠지",
+        "exposureOrder": 32
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 11504061,
+        "minAttributeValue": "초상가동",
+        "exposureOrder": 33
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 11503942,
+        "minAttributeValue": "SHODO",
+        "exposureOrder": 34
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 11504071,
+        "minAttributeValue": "메탈빌드",
+        "exposureOrder": 35
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 11503853,
+        "minAttributeValue": "배리어블액션",
+        "exposureOrder": 36
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 11503854,
+        "minAttributeValue": "다이너마이트액션",
+        "exposureOrder": 37
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 11503943,
+        "minAttributeValue": "Hi-Metal",
+        "exposureOrder": 38
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 11503792,
+        "minAttributeValue": "토미카",
+        "exposureOrder": 39
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 11503932,
+        "minAttributeValue": "ES합금",
+        "exposureOrder": 40
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 11503962,
+        "minAttributeValue": "미니합금",
+        "exposureOrder": 41
+    },
+    {
+        "attributeSeq": 10014737,
+        "attributeValueSeq": 10775180,
+        "minAttributeValue": "기타 시리즈",
+        "exposureOrder": 42
+    },
+    {
+        "attributeSeq": 10025374,
+        "attributeValueSeq": 10959895,
+        "minAttributeValue": "NON",
+        "exposureOrder": 1
+    },
+    {
+        "attributeSeq": 10025374,
+        "attributeValueSeq": 10959905,
+        "minAttributeValue": "1:1~1:9",
+        "exposureOrder": 2
+    },
+    {
+        "attributeSeq": 10025374,
+        "attributeValueSeq": 10959797,
+        "minAttributeValue": "1:10~1:19",
+        "exposureOrder": 3
+    },
+    {
+        "attributeSeq": 10025374,
+        "attributeValueSeq": 10959798,
+        "minAttributeValue": "1:20~1:49",
+        "exposureOrder": 4
+    },
+    {
+        "attributeSeq": 10025374,
+        "attributeValueSeq": 10808561,
+        "minAttributeValue": "1:50~1:99",
+        "exposureOrder": 5
+    },
+    {
+        "attributeSeq": 10025374,
+        "attributeValueSeq": 10808562,
+        "minAttributeValue": "1:100~1:149",
+        "exposureOrder": 6
+    },
+    {
+        "attributeSeq": 10025374,
+        "attributeValueSeq": 10808563,
+        "minAttributeValue": "1:150~1:199",
+        "exposureOrder": 7
+    },
+    {
+        "attributeSeq": 10025374,
+        "attributeValueSeq": 10808564,
+        "minAttributeValue": "1:200~",
+        "exposureOrder": 8
+    },
+    {
+        "attributeSeq": 10025384,
+        "attributeValueSeq": 10959906,
+        "minAttributeValue": "가능(액션)",
+        "exposureOrder": 1
+    },
+    {
+        "attributeSeq": 10025384,
+        "attributeValueSeq": 10959806,
+        "minAttributeValue": "불가능(스태츄)",
+        "exposureOrder": 2
+    },
+    {
+        "attributeSeq": 10025394,
+        "attributeValueSeq": 10040848,
+        "minAttributeValue": "PVC",
+        "exposureOrder": 1
+    },
+    {
+        "attributeSeq": 10025394,
+        "attributeValueSeq": 10672627,
+        "minAttributeValue": "PP",
+        "exposureOrder": 2
+    },
+    {
+        "attributeSeq": 10025394,
+        "attributeValueSeq": 10676517,
+        "minAttributeValue": "PE",
+        "exposureOrder": 3
+    },
+    {
+        "attributeSeq": 10025394,
+        "attributeValueSeq": 10375347,
+        "minAttributeValue": "레진",
+        "exposureOrder": 4
+    },
+    {
+        "attributeSeq": 10025394,
+        "attributeValueSeq": 10676515,
+        "minAttributeValue": "ABS",
+        "exposureOrder": 5
+    },
+    {
+        "attributeSeq": 10025394,
+        "attributeValueSeq": 10197467,
+        "minAttributeValue": "메탈",
+        "exposureOrder": 6
+    },
+    {
+        "attributeSeq": 10025394,
+        "attributeValueSeq": 10959915,
+        "minAttributeValue": "소프트비닐",
+        "exposureOrder": 7
+    },
+    {
+        "attributeSeq": 10025394,
+        "attributeValueSeq": 10797721,
+        "minAttributeValue": "합금",
+        "exposureOrder": 8
+    },
+    {
+        "attributeSeq": 10025394,
+        "attributeValueSeq": 10030656,
+        "minAttributeValue": "기타",
+        "exposureOrder": 9
+    }
+]

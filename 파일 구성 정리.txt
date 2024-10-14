@@ -1,0 +1,14 @@
+로직 파일
+   1_get_product_info (실행)
+      get_token
+      read_excel_data
+      get_product_detail
+      upload_product_image
+   2_upload_to_smartstore (실행)
+      upload_to_coupang
+      upload_to_smartstore
+필요 파일
+   dt_img_01~03
+   product_upload_source.xlsx (가져올 상품)
+   product_upload_template.xlsx
+   product_upload_data.xlsx (업로드 할 상품)

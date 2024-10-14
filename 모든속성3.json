@@ -1,0 +1,188 @@
+[
+    {
+        "attributeSeq": 10014126,
+        "attributeValueSeq": 10197460,
+        "minAttributeValue": "가죽",
+        "exposureOrder": 1
+    },
+    {
+        "attributeSeq": 10014126,
+        "attributeValueSeq": 10762473,
+        "minAttributeValue": "스테인",
+        "exposureOrder": 2
+    },
+    {
+        "attributeSeq": 10014126,
+        "attributeValueSeq": 10040847,
+        "minAttributeValue": "패브릭",
+        "exposureOrder": 3
+    },
+    {
+        "attributeSeq": 10014126,
+        "attributeValueSeq": 10574780,
+        "minAttributeValue": "아크릴",
+        "exposureOrder": 4
+    },
+    {
+        "attributeSeq": 10014126,
+        "attributeValueSeq": 10030314,
+        "minAttributeValue": "고무",
+        "exposureOrder": 5
+    },
+    {
+        "attributeSeq": 10014126,
+        "attributeValueSeq": 10198218,
+        "minAttributeValue": "크리스탈",
+        "exposureOrder": 6
+    },
+    {
+        "attributeSeq": 10014126,
+        "attributeValueSeq": 10197443,
+        "minAttributeValue": "골드",
+        "exposureOrder": 7
+    },
+    {
+        "attributeSeq": 10014126,
+        "attributeValueSeq": 10031729,
+        "minAttributeValue": "실버",
+        "exposureOrder": 8
+    },
+    {
+        "attributeSeq": 10014126,
+        "attributeValueSeq": 10030656,
+        "minAttributeValue": "기타",
+        "exposureOrder": 9
+    },
+    {
+        "attributeSeq": 10014126,
+        "attributeValueSeq": 112522,
+        "minAttributeValue": "황동",
+        "exposureOrder": 10
+    },
+    {
+        "attributeSeq": 10014128,
+        "attributeValueSeq": 10040055,
+        "minAttributeValue": "캐릭터",
+        "exposureOrder": 1
+    },
+    {
+        "attributeSeq": 10014128,
+        "attributeValueSeq": 10759940,
+        "minAttributeValue": "이니셜",
+        "exposureOrder": 2
+    },
+    {
+        "attributeSeq": 10014128,
+        "attributeValueSeq": 10030814,
+        "minAttributeValue": "LED",
+        "exposureOrder": 3
+    },
+    {
+        "attributeSeq": 10014128,
+        "attributeValueSeq": 10762474,
+        "minAttributeValue": "모형",
+        "exposureOrder": 4
+    },
+    {
+        "attributeSeq": 10014128,
+        "attributeValueSeq": 10040924,
+        "minAttributeValue": "태슬",
+        "exposureOrder": 5
+    },
+    {
+        "attributeSeq": 10014128,
+        "attributeValueSeq": 10760010,
+        "minAttributeValue": "참",
+        "exposureOrder": 6
+    },
+    {
+        "attributeSeq": 10014128,
+        "attributeValueSeq": 10762475,
+        "minAttributeValue": "굿즈",
+        "exposureOrder": 7
+    },
+    {
+        "attributeSeq": 10014128,
+        "attributeValueSeq": 10040928,
+        "minAttributeValue": "플라워",
+        "exposureOrder": 8
+    },
+    {
+        "attributeSeq": 10014128,
+        "attributeValueSeq": 10718498,
+        "minAttributeValue": "비즈",
+        "exposureOrder": 9
+    },
+    {
+        "attributeSeq": 10014128,
+        "attributeValueSeq": 10040925,
+        "minAttributeValue": "리본",
+        "exposureOrder": 10
+    },
+    {
+        "attributeSeq": 10014128,
+        "attributeValueSeq": 10040846,
+        "minAttributeValue": "퍼",
+        "exposureOrder": 11
+    },
+    {
+        "attributeSeq": 10014128,
+        "attributeValueSeq": 10554990,
+        "minAttributeValue": "스팽글",
+        "exposureOrder": 12
+    },
+    {
+        "attributeSeq": 10014128,
+        "attributeValueSeq": 10614295,
+        "minAttributeValue": "레이스",
+        "exposureOrder": 13
+    },
+    {
+        "attributeSeq": 10014128,
+        "attributeValueSeq": 10614297,
+        "minAttributeValue": "프릴",
+        "exposureOrder": 14
+    },
+    {
+        "attributeSeq": 10014128,
+        "attributeValueSeq": 10040049,
+        "minAttributeValue": "무지",
+        "exposureOrder": 15
+    },
+    {
+        "attributeSeq": 10014128,
+        "attributeValueSeq": 10033232,
+        "minAttributeValue": "깃털",
+        "exposureOrder": 16
+    },
+    {
+        "attributeSeq": 10014128,
+        "attributeValueSeq": 10040862,
+        "minAttributeValue": "체인",
+        "exposureOrder": 17
+    },
+    {
+        "attributeSeq": 10014128,
+        "attributeValueSeq": 10030656,
+        "minAttributeValue": "기타",
+        "exposureOrder": 18
+    },
+    {
+        "attributeSeq": 10005212,
+        "attributeValueSeq": 10029065,
+        "minAttributeValue": "남성용",
+        "exposureOrder": 1
+    },
+    {
+        "attributeSeq": 10005212,
+        "attributeValueSeq": 10537277,
+        "minAttributeValue": "여성용",
+        "exposureOrder": 2
+    },
+    {
+        "attributeSeq": 10005212,
+        "attributeValueSeq": 10030583,
+        "minAttributeValue": "남녀공용",
+        "exposureOrder": 3
+    }
+]
